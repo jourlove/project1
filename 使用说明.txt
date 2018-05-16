@@ -1,0 +1,20 @@
+1.修改config数据库连接文件
+2.导入database数据库
+3.后台帐号密码  admin   123123   
+4.七牛云注册地址：https://portal.qiniu.com/signup?code=3ljfu8zeq6rf6
+5.首页外链：template/default/library/nav.lbi
+6.后台地址：http://域名/vradmin/
+
+  
+
+
+accessKey	
+ks7sIVaHLOvSFNmV8VfFpKlrDIDWOJ96XsMbzVU7
+secretKey	
+iCJzSrGdThkd5g-iKq3WKqC56v9AHr1fsHK-TIaN
+bucket	
+vr720
+CDN域名	
+opwgxgcgx.bxt.clouddn.com
+
+p8q4053c7.bkt.clouddn.com
