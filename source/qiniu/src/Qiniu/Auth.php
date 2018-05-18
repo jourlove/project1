@@ -12,7 +12,6 @@ final class Auth
     {
         $this->accessKey = $accessKey;
         $this->secretKey = $secretKey;
-        var_dump("accesskey:"+$this->accessKey + ",secretKey:"+$secretKey);
     }
 
     public function sign($data)
