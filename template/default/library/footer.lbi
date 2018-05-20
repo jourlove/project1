@@ -59,10 +59,11 @@
   </div>
 </footer>
 <script language="JavaScript" type="text/javascript" src="/static/js/jquery.form.js"></script>
-<script language="JavaScript" type="text/javascript" src="/static/js/bootbox.js"></script> 
+<script language="JavaScript" type="text/javascript" src="/static/js/bootbox.js"></script>
+<script language="JavaScript" type="text/javascript" src="/static/js/zui.js"></script>
 <script language="JavaScript" type="text/javascript" src="/static/js/pager.js"></script> 
 <script language="JavaScript" type="text/javascript" src="/static/js/common.js"></script>
-<script language="JavaScript" type="text/javascript" src="/static/js/zui.js"></script>
+
 <script>
 	var f_resize_time;
 	window.onload = function (){ 
