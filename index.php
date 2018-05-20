@@ -1,6 +1,8 @@
 <?php
 //ini_set("display_errors","On");
 //error_reporting(E_ALL);
+
+//define('APP_DEBUG',true);
 //前台入口文件
 define('IN_T',true);
 require 'source/include/init.php';
